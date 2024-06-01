@@ -1,4 +1,3 @@
-flask
-streamlit
-pandas
-yfinance
+streamlit==0.89.0
+yfinance==0.1.63
+pandas==1.3.3
